@@ -1,0 +1,4 @@
+D:\Dropbox\University\7th Semester\Software Development\BankSysetm2\BankSysetm2\bin\Release\BankSysetm2.exe
+D:\Dropbox\University\7th Semester\Software Development\BankSysetm2\BankSysetm2\bin\Release\BankSysetm2.pdb
+D:\Dropbox\University\7th Semester\Software Development\BankSysetm2\BankSysetm2\obj\x86\Release\BankSysetm2.exe
+D:\Dropbox\University\7th Semester\Software Development\BankSysetm2\BankSysetm2\obj\x86\Release\BankSysetm2.pdb

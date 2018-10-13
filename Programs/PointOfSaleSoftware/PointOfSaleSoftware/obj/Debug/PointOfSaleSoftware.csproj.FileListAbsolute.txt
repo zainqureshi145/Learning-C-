@@ -1,0 +1,6 @@
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\bin\Debug\PointOfSaleSoftware.exe.config
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\obj\Debug\PointOfSaleSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\bin\Debug\PointOfSaleSoftware.exe
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\bin\Debug\PointOfSaleSoftware.pdb
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\obj\Debug\PointOfSaleSoftware.exe
+C:\Users\Zain Qureshi\Desktop\PointOfSaleSoftware\PointOfSaleSoftware\obj\Debug\PointOfSaleSoftware.pdb

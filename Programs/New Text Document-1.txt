@@ -1,0 +1,68 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String Product1 = "Sugar";
+            Double Product1Price = 62.20;
+            int Product1Qty = 45;
+
+            String Product2 = "Salt";
+            Double Product2Price = 32.20;
+            int Product2Qty = 45;
+
+            String Product3 = "Pepper";
+            Double Product3Price = 82.20;
+            int Product3Qty = 45;
+
+
+            Console.WriteLine("Enter 1 To Purchase Sugar");
+
+            Console.WriteLine("Enter 2 To Purchase Salt");
+
+            Console.WriteLine("Enter 3 To Purchase Pepper");
+
+            String choice = Console.ReadLine();
+            int Option = Convert.ToInt32(choice);
+
+            if (Option == 1)
+            {
+                Console.WriteLine("Enter Quantity");
+                String Qty = Console.ReadLine();
+                int SugarQty = Convert.ToInt32(Qty);
+                if (SugarQty >= 45)
+                {
+                    Console.WriteLine("This Much Qty Is not available");
+                    
+                }
+                else
+                    Console.WriteLine(Product1Qty - SugarQty);
+                Console.WriteLine("Price is " + SugarQty * Product1Price);
+                Console.ReadLine();
+            }
+
+            if (Option == 2)
+            {
+                Console.WriteLine("Enter Quantity");
+                String Qty1 = Console.ReadLine();
+                int SaltQty = Convert.ToInt32(Qty1);
+                if (SaltQty > 45)
+                {
+                    Console.WriteLine("This Much Qty Is not available");
+                    return;
+
+                }
+
+
+
+            }
+
+        }
+    }
+}

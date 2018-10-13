@@ -1,0 +1,4 @@
+D:\Development\Testing\Lab_DataSet\Lab_DataSet\bin\Debug\Lab_DataSet.exe
+D:\Development\Testing\Lab_DataSet\Lab_DataSet\bin\Debug\Lab_DataSet.pdb
+D:\Development\Testing\Lab_DataSet\Lab_DataSet\obj\x86\Debug\Lab_DataSet.exe
+D:\Development\Testing\Lab_DataSet\Lab_DataSet\obj\x86\Debug\Lab_DataSet.pdb

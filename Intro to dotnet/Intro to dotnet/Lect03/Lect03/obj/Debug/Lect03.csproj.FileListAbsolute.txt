@@ -1,0 +1,6 @@
+D:\Development\Testing\Lect03\Lect03\bin\Debug\Lect03.exe.config
+D:\Development\Testing\Lect03\Lect03\bin\Debug\Lect03.exe
+D:\Development\Testing\Lect03\Lect03\bin\Debug\Lect03.pdb
+D:\Development\Testing\Lect03\Lect03\obj\Debug\Lect03.csprojResolveAssemblyReference.cache
+D:\Development\Testing\Lect03\Lect03\obj\Debug\Lect03.exe
+D:\Development\Testing\Lect03\Lect03\obj\Debug\Lect03.pdb

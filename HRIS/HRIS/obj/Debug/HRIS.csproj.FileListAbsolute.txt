@@ -1,0 +1,9 @@
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\bin\Debug\HRIS.exe
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\bin\Debug\HRIS.pdb
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.Form1.resources
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.exe
+C:\Users\Zain Qureshi\Desktop\HRIS\HRIS\obj\Debug\HRIS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\bin\Debug\E-Wallet.exe.config
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\bin\Debug\E-Wallet.exe
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\bin\Debug\E-Wallet.pdb
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\obj\Debug\E-Wallet.csprojResolveAssemblyReference.cache
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\obj\Debug\E-Wallet.exe
+C:\Users\Zain Qureshi\Desktop\E-Wallet\E-Wallet\obj\Debug\E-Wallet.pdb

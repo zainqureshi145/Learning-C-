@@ -1,0 +1,4 @@
+D:\Development\Testing\Lab12_ADONET\Lab12_ADONET\bin\Debug\Lab12_ADONET.exe
+D:\Development\Testing\Lab12_ADONET\Lab12_ADONET\bin\Debug\Lab12_ADONET.pdb
+D:\Development\Testing\Lab12_ADONET\Lab12_ADONET\obj\x86\Debug\Lab12_ADONET.exe
+D:\Development\Testing\Lab12_ADONET\Lab12_ADONET\obj\x86\Debug\Lab12_ADONET.pdb

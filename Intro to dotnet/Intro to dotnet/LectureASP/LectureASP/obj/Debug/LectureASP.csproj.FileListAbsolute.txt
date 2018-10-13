@@ -1,0 +1,4 @@
+D:\Development\Testing\LectureASP\LectureASP\bin\LectureASP.dll
+D:\Development\Testing\LectureASP\LectureASP\bin\LectureASP.pdb
+D:\Development\Testing\LectureASP\LectureASP\obj\Debug\LectureASP.dll
+D:\Development\Testing\LectureASP\LectureASP\obj\Debug\LectureASP.pdb

@@ -1,0 +1,6 @@
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\bin\Debug\HRIS-1112114.exe.config
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\obj\Debug\HRIS-1112114.csprojResolveAssemblyReference.cache
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\bin\Debug\HRIS-1112114.exe
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\bin\Debug\HRIS-1112114.pdb
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\obj\Debug\HRIS-1112114.exe
+c:\users\bs\documents\visual studio 2013\Projects\HRIS-1112114\HRIS-1112114\obj\Debug\HRIS-1112114.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\University\7th Semester\Software Development\DATA\DataAccess\Lab12_ADONET\Lab12_ADONET\bin\Release\Lab12_ADONET.exe
+D:\Dropbox\University\7th Semester\Software Development\DATA\DataAccess\Lab12_ADONET\Lab12_ADONET\bin\Release\Lab12_ADONET.pdb
+D:\Dropbox\University\7th Semester\Software Development\DATA\DataAccess\Lab12_ADONET\Lab12_ADONET\obj\x86\Release\Lab12_ADONET.exe
+D:\Dropbox\University\7th Semester\Software Development\DATA\DataAccess\Lab12_ADONET\Lab12_ADONET\obj\x86\Release\Lab12_ADONET.pdb
+D:\Dropbox\University\7th Semester\Software Development\DATA\DataAccess\Lab12_ADONET\Lab12_ADONET\obj\x86\Release\Lab12_ADONET.csprojResolveAssemblyReference.cache

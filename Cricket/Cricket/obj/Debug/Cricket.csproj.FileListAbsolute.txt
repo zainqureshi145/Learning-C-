@@ -1,0 +1,6 @@
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\bin\Debug\Cricket.exe.config
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\bin\Debug\Cricket.exe
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\bin\Debug\Cricket.pdb
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\obj\Debug\Cricket.csprojResolveAssemblyReference.cache
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\obj\Debug\Cricket.exe
+C:\Users\Zain Qureshi\Desktop\Cricket\Cricket\obj\Debug\Cricket.pdb

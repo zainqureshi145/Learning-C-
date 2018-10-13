@@ -1,0 +1,6 @@
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\Zain Qureshi\Desktop\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb

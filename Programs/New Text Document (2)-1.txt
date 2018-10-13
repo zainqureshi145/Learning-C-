@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+namespace ConsoleApplication4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Enter value one");
+            string valueone = Console.ReadLine();
+            int newvalueone = Convert.ToInt32(valueone);
+
+             if (newvalueone <0 || newvalueone>1000
+                )
+             {Console.WriteLine("invalid value one");
+             Console.ReadLine();
+                 return;
+             }
+             
+
+            Console.WriteLine("Enter value two");
+            string valuetwo = Console.ReadLine();
+            int newvaluetwo = Convert.ToInt32(valuetwo);
+
+            if (newvaluetwo < 0 || newvaluetwo > 1000
+               )
+            {
+                Console.WriteLine("invalid value two");
+                Console.ReadLine();
+                return;
+            }
+
+            String operand = String.Empty;
+            Console.WriteLine("Enter + for addition");
+            Console.WriteLine("Enter - for Subtraction");
+            Console.WriteLine("Enter * for multiplication");
+            Console.WriteLine("Enter / for division");
+            operand = Console.ReadLine();
+            if (operand == "+")
+            {
+                int add = newvalueone + newvaluetwo;
+                Console.WriteLine("Result of addition is " + add);
+            }
+            if (operand == "-")
+            {
+                int sub = newvalueone - newvaluetwo;
+                Console.WriteLine("Result of Subtraction is " + sub);
+            }
+            if (operand == "*")
+            {
+                int mul = newvalueone * newvaluetwo;
+                Console.WriteLine("Result of Subtraction is " + mul);
+            }
+            if (operand == "/")
+            {
+
+                int div = newvalueone / newvaluetwo;
+                Console.WriteLine("Result of division is " + div);
+            }
+
+
+
+
+
+          
+            Console.ReadLine();
+            
+
+        
+        }
+
+    }
+}

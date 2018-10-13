@@ -1,0 +1,10 @@
+D:\Development\Testing\Lab18\Lab18\bin\Debug\Lab18.exe
+D:\Development\Testing\Lab18\Lab18\bin\Debug\Lab18.pdb
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.Form1.resources
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.Login.resources
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.Properties.Resources.resources
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.csproj.GenerateResource.Cache
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.exe
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.pdb
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.csprojResolveAssemblyReference.cache
+D:\Development\Testing\Lab18\Lab18\obj\x86\Debug\Lab18.Register.resources

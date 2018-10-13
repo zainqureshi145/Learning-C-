@@ -1,0 +1,14 @@
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\bin\Debug\Lab_19_EmployeeRegistratoin.exe
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\bin\Debug\Lab_19_EmployeeRegistratoin.pdb
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Main.resources
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Properties.Resources.resources
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.csproj.GenerateResource.Cache
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.exe
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.pdb
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Forms.Login.resources
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.csprojResolveAssemblyReference.cache
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Forms.AddEmployee.resources
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Forms.ViewData.resources
+D:\Development\Testing\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.Forms.SearchEmployee.resources
+C:\Users\jfkdfld\Desktop\CS-7\Intro to dotnet\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.exe
+C:\Users\jfkdfld\Desktop\CS-7\Intro to dotnet\Lab_19_EmployeeRegistratoin\Lab_19_EmployeeRegistratoin\obj\x86\Debug\Lab_19_EmployeeRegistratoin.pdb

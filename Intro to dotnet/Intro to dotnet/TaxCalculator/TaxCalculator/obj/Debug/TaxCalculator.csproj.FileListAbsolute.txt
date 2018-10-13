@@ -1,0 +1,6 @@
+D:\Development\Testing\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\Development\Testing\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\Development\Testing\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\Development\Testing\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+D:\Development\Testing\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\Development\Testing\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
